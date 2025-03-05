@@ -242,4 +242,67 @@ This universal model employ Leave One Participant Out Cross validation to make g
     </tbody>
 </table>
 
+
 ## References
+
+[1] Sharifa Alghowinem, Roland Goecke, Michael Wagner, Gordon Parker, and Michael Breakspear. Head pose and movement analysis as an indicator of depression. In *2013 Humaine Association Conference on Affective Computing and Intelligent Interaction*, pages 283–288, 2013.
+
+[2] C. ´A. Casado, M. L. Ca˜nellas, and M. B. L´opez. Depression recognition using remote photoplethysmography from facial videos. *IEEE Transactions on Affective Computing*, 14(4):3305–3316, 2023.
+
+[3] Yulia E. Chentsova-Dutton, Jeanne L. Tsai, and Ian H. Gotlib. Further evidence for the cultural norm hypothesis: Positive emotion in depressed and control European American and Asian American women. *Cultural Diversity and Ethnic Minority Psychology*, 16(2):284, 2010.
+
+[4] Prerna Chikersal, Afsaneh Doryab, Michael Tumminia, Daniella K. Villalba, Janine M. Dutcher, Xinwen Liu, Sheldon Cohen, Kasey G. Creswell, Jennifer Mankoff, J. David Creswell, et al. Detecting depression and predicting its onset using longitudinal symptoms captured by passive sensing: A machine learning approach with robust feature selection. *ACM Transactions on Computer-Human Interaction (TOCHI)*, 28(1):1–41, 2021.
+
+[5] J. F. Cohn, T. S. Kruez, I. Matthews, Y. Yang, M. H. Nguyen, M. T. Padilla, and F. De la Torre. Detecting depression from facial actions and vocal prosody. In *2009 3rd International Conference on Affective Computing and Intelligent Interaction and Workshops*, pages 1–7. IEEE, September 2009.
+
+[6] Jeffrey F. Cohn, Tomas Simon Kruez, Iain Matthews, Ying Yang, Minh Hoai Nguyen, Margara Tejera Padilla, Feng Zhou, and Fernando De la Torre. Detecting depression from facial actions and vocal prosody. In *2009 3rd International Conference on Affective Computing and Intelligent Interaction and Workshops*, pages 1–7. IEEE, 2009.
+
+[7] GBD 2019 Mental Disorders Collaborators. Global, regional, and national burden of 12 mental disorders in 204 countries and territories, 1990-2019: a systematic analysis for the global burden of disease study 2019. *The Lancet. Psychiatry*, 9(2):137–150, 2022.
+
+[8] WHO Depression. Other common mental disorders: global health estimates. Geneva: World Health Organization, 24(1), 2017.
+
+[9] GBD 2017 Disease, Injury Incidence, and Prevalence Collaborators. Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990-2017: a systematic analysis for the global burden of disease study 2017. *Lancet (London, England)*, 392(10159):1789–1858, 2018.
+
+[10] GBD 2019 Diseases and Injuries Collaborators. Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the global burden of disease study 2019. *Lancet (London, England)*, 396(10258):1204–1222, 2020.
+
+[11] Asma Ahmad Farhan, Chaoqun Yue, Reynaldo Morillo, Shweta Ware, Jin Lu, Jinbo Bi, Jayesh Kamath, Alexander Russell, Athanasios Bamis, and Bing Wang. Behavior vs. introspection: Refining prediction of clinical depression via smartphone sensing data. In *2016 IEEE Wireless Health (WH)*, pages 1–8. IEEE, 2016.
+
+[12] Hans-Ulrich Fisch, Siegfried Frey, and Hans-Peter Hirsbrunner. Analyzing nonverbal behavior in depression. *Journal of Abnormal Psychology*, 92(3):307, 1983.
+
+[13] Wolfgang Gaebel and Wolfgang Wölwer. Facial expressivity in the course of schizophrenia and depression. *European Archives of Psychiatry and Clinical Neuroscience*, 254:335–342, 2004.
+
+[14] J. G. Gehricke and D. Shapiro. Reduced facial expression and social context in major depression: Discrepancies between facial muscle activity and self-reported emotion. *Psychiatry Research*, 95(2):157–167, 2000.
+
+[15] R. Islam and S. W. Bae. Facepsy: An open-source affective mobile sensing system—analyzing facial behavior and head gesture for depression detection in naturalistic settings. *Proceedings of the ACM on Human-Computer Interaction*, 8(MHCI):1–32, 2024.
+
+[16] Rahul Islam and Sang Won Bae. Pupilsense: Detection of depressive episodes through pupillary response in the wild. In *International Conference on Activity and Behavior Computing*, 2024.
+
+[17] Jyoti Joshi, Roland Goecke, Gordon Parker, and Michael Breakspear. Can body expressions contribute to automatic depression analysis? In *2013 10th IEEE International Conference and Workshops on Automatic Face and Gesture Recognition (FG)*, pages 1–7. IEEE, 2013.
+
+[18] K. Koller-Schlaud, A. Ströhle, E. Bärwolf, J. Behr, and J. Rentzsch. EEG frontal asymmetry and theta power in unipolar and bipolar depression. *Journal of Affective Disorders*, 276:501–510, 2020.
+
+[19] S. Nepal, A. Pillai, W. Wang, T. Griffin, A. C. Collins, M. Heinz, and A. Campbell. Moodcapture: Depression detection using in-the-wild smartphone images. In *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems*, pages 1–18. ACM, May 2024.
+
+[20] Kennedy Opoku Asare, Isaac Moshe, Yannik Terhorst, Julio Vega, Simo Hosio, Harald Baumeister, Laura Pulkki-Råback, and Denzil Ferreira. Mood ratings and digital biomarkers from smartphone and wearable data differentiates and predicts depression status: A longitudinal data analysis. 2022. Preprint or unpublished work, DOI not available.
+
+[21] World Health Organization. The ICD-10 classification of mental and behavioural disorders: clinical descriptions and diagnostic guidelines, volume 1. World Health Organization, 1992.
+
+[22] Paola Pedrelli, Szymon Fedor, Asma Ghandeharioun, Esther Howe, Dawn F. Ionescu, Darian Bhathena, Lauren B. Fisher, Cristina Cusin, Maren Nyer, Albert Yeung, et al. Monitoring changes in depression severity using wearable and mobile sensors. *Frontiers in Psychiatry*, 11:584711, 2020.
+
+[23] Lawrence Ian Reed, Michael A. Sayette, and Jeffrey F. Cohn. Impact of depression on response to comedy: A dynamic facial coding analysis. *Journal of Abnormal Psychology*, 116(4):804, 2007.
+
+[24] Babette Renneberg, Katrin Heyn, Rita Gebhard, and Silke Bachmann. Facial expression of emotions in borderline personality disorder and depression. *Journal of Behavior Therapy and Experimental Psychiatry*, 36(3):183–196, 2005.
+
+[25] Denise M. Sloan, Milton E. Strauss, Stuart W. Quirk, and Martha Sajatovic. Subjective and expressive emotional responses in depression. *Journal of Affective Disorders*, 46(2):135–141, 1997.
+
+[26] Denise M. Sloan, Milton E. Strauss, and Katherine L. Wisner. Diminished response to pleasant stimuli by depressed women. *Journal of Abnormal Psychology*, 110(3):488, 2001.
+
+[27] Siyang Song, Shashank Jaiswal, Linlin Shen, and Michel Valstar. Spectral representation of behaviour primitives for depression analysis. *IEEE Transactions on Affective Computing*, 2020.
+
+[28] Michel Valstar, Björn Schuller, Kirsty Smith, Timur Almaev, Florian Eyben, Jarek Krajewski, Roddy Cowie, and Maja Pantic. Avec 2014: 3D dimensional affect and depression recognition challenge. In *Proceedings of the 4th International Workshop on Audio/Visual Emotion Challenge*, pages 3–10, 2014.
+
+[29] A. Vázquez-Romero and A. Gallardo-Antolín. Automatic detection of depression in speech using ensemble convolutional neural networks. *Entropy*, 22(6):688, 2020.
+
+[30] Rui Wang, Andrew T. Campbell, and Xia Zhou. Using opportunistic face logging from smartphone to infer mental health: Challenges and future directions. In *Adjunct Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers*, pages 683–692, 2015.
+
+[31] Y. Xing, N. Rao, M. Miao, Q. Li, Q. Li, X. Chen, and J. Wu. Task-state heart rate variability parameter-based depression detection model and effect of therapy on the parameters. *IEEE Access*, 7:105701–105709, 2019.
