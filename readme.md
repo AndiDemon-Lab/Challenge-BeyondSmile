@@ -151,7 +151,7 @@ This universal model employ Leave One Participant Out Cross validation to make g
 
 
 ## Hybrid Model
-
+This Hybrid model employ Leave One Participant Day Out Cross validation for testing and Nested Cross validation for training
 
 
 <table>
