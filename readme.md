@@ -134,3 +134,111 @@ This universal model employ Leave One Participant Out Cross validation to make g
 ## Hybrid Model
 
 
+
+<table>
+    <caption>AUROC Comparison of different algorithms using Full Features (Drop NaN) and Eyes and Smile Probability (Drop NaN).</caption>
+    <thead>
+        <tr>
+            <th>Algorithm</th>
+            <th>Full Features (Drop NaN)</th>
+            <th>Eyes and Smile Probability (Drop NaN)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>AdaBoost</td><td>0.5302</td><td>0.4622</td></tr>
+        <tr><td>Bagging</td><td>0.5107</td><td>0.5007</td></tr>
+        <tr><td>CatBoost</td><td>0.4967</td><td>0.5039</td></tr>
+        <tr><td>GradientBoosting</td><td>0.5188</td><td>0.4786</td></tr>
+        <tr><td>LightGBM</td><td>0.4999</td><td>0.4971</td></tr>
+        <tr><td>RandomForest</td><td>0.5012</td><td>0.4995</td></tr>
+        <tr><td>XGBoost</td><td>0.5061</td><td>0.4987</td></tr>
+        <tr><td>LSTM</td><td>0.4559</td><td>0.4487</td></tr>
+    </tbody>
+</table>
+
+<table>
+    <caption>AUROC Comparison of different algorithms using Full Features (Imputed Mean), Eyes and Smile Probability (Imputed Mean), and Head Euler Angle.</caption>
+    <thead>
+        <tr>
+            <th>Algorithm</th>
+            <th>Full Features (Imputed Mean)</th>
+            <th>Eyes and Smile Probability (Imputed Mean)</th>
+            <th>Head Euler Angle</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>AdaBoost</td><td>0.5093</td><td>0.4663</td><td>0.5296</td></tr>
+        <tr><td>Bagging</td><td>0.5240</td><td>0.4950</td><td>0.5144</td></tr>
+        <tr><td>CatBoost</td><td>0.5074</td><td>0.4942</td><td>0.5232</td></tr>
+        <tr><td>GradientBoosting</td><td>0.5054</td><td>0.4729</td><td>0.5275</td></tr>
+        <tr><td>LightGBM</td><td>0.5204</td><td>0.4910</td><td>0.5273</td></tr>
+        <tr><td>RandomForest</td><td>0.5249</td><td>0.4921</td><td>0.5153</td></tr>
+        <tr><td>XGBoost</td><td>0.5140</td><td>0.4889</td><td>0.5240</td></tr>
+        <tr><td>LSTM</td><td>0.5201</td><td>0.4490</td><td>0.4506</td></tr>
+    </tbody>
+</table>
+
+<table>
+    <caption>Accuracy Comparison of different algorithms using Full Features (Drop NaN) and Eyes and Smile Probability (Drop NaN).</caption>
+    <thead>
+        <tr>
+            <th>Algorithm</th>
+            <th>Full Features (Drop NaN)</th>
+            <th>Eyes and Smile Probability (Drop NaN)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>AdaBoost</td><td>0.3994</td><td>0.4073</td></tr>
+        <tr><td>Bagging</td><td>0.3278</td><td>0.7093</td></tr>
+        <tr><td>CatBoost</td><td>0.3812</td><td>0.7388</td></tr>
+        <tr><td>GradientBoosting</td><td>0.3914</td><td>0.5704</td></tr>
+        <tr><td>LightGBM</td><td>0.3806</td><td>0.7096</td></tr>
+        <tr><td>RandomForest</td><td>0.3351</td><td>0.7046</td></tr>
+        <tr><td>XGBoost</td><td>0.3800</td><td>0.5920</td></tr>
+        <tr><td>LSTM</td><td>0.0688</td><td>0.0484</td></tr>
+    </tbody>
+</table>
+
+<table>
+    <caption>Accuracy Comparison of different algorithms using Full Features (Imputed Mean), Eyes and Smile Probability (Imputed Mean), and Head Euler Angle.</caption>
+    <thead>
+        <tr>
+            <th>Algorithm</th>
+            <th>Full Features (Imputed Mean)</th>
+            <th>Eyes and Smile Probability (Imputed Mean)</th>
+            <th>Head Euler Angle</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>AdaBoost</td><td>0.3994</td><td>0.3885</td><td>0.2013</td></tr>
+        <tr><td>Bagging</td><td>0.3278</td><td>0.6995</td><td>0.1593</td></tr>
+        <tr><td>CatBoost</td><td>0.3812</td><td>0.7289</td><td>0.1835</td></tr>
+        <tr><td>GradientBoosting</td><td>0.3914</td><td>0.5613</td><td>0.1905</td></tr>
+        <tr><td>LightGBM</td><td>0.3806</td><td>0.7024</td><td>0.1853</td></tr>
+        <tr><td>RandomForest</td><td>0.3351</td><td>0.6922</td><td>0.1700</td></tr>
+        <tr><td>XGBoost</td><td>0.3800</td><td>0.5806</td><td>0.1847</td></tr>
+        <tr><td>LSTM</td><td>0.1337</td><td>0.0227</td><td>0.0810</td></tr>
+    </tbody>
+</table>
+
+<table>
+    <caption>F1-Score Comparison of Different Algorithms Using Full Features (Drop NaN) and Eyes and Smile Probability (Drop NaN)</caption>
+    <thead>
+        <tr>
+            <th>Algorithm</th>
+            <th>Full Features (Drop NaN)</th>
+            <th>Eyes and Smile Probability (Drop NaN)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>AdaBoost</td><td>0.4215</td><td>0.3577</td></tr>
+        <tr><td>Bagging</td><td>0.3495</td><td>0.2931</td></tr>
+        <tr><td>CatBoost</td><td>0.4072</td><td>0.1647</td></tr>
+        <tr><td>GradientBoosting</td><td>0.4085</td><td>0.3554</td></tr>
+        <tr><td>LightGBM</td><td>0.3965</td><td>0.2464</td></tr>
+        <tr><td>RandomForest</td><td>0.3445</td><td>0.2946</td></tr>
+        <tr><td>XGBoost</td><td>0.4125</td><td>0.3391</td></tr>
+        <tr><td>LSTM</td><td>0.3713</td><td>0.4099</td></tr>
+    </tbody>
+</table>
+
