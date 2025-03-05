@@ -1,7 +1,26 @@
 # BeyondSmile
 
 ## Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Depression is a significant global health burden, affecting over 322 mil-
+lion people worldwide and projected to surpass cardiovascular disease as
+the leading cause of disability by 2030. Despite advancements in mental
+health services, accurate and accessible diagnostic methods remain a crit-
+ical challenge. Traditional approaches, such as psychiatric consultations,
+face limitations due to the physician-patient ratio and reliance on subjec-
+tive self-report scales, which can lead to inaccuracies. Recent research has
+explored alternative methods, including facial behavior analysis, for objec-
+tive depression assessment. This approach is cost-effective, non-invasive,
+and suitable for real-world applications. This study builds upon existing
+research, such as FacePsy and MoodCapture, by enhancing facial behavior
+analysis using deep learning techniques. We propose an improved frame-
+work for depression detection, introducing novel methods to extract and
+interpret facial indicators associated with depressive symptoms. Through
+comprehensive experiments, we demonstrate the effectiveness of our ap-
+proach for real-world applications. Our findings contribute to the advance-
+ment of AI-driven mental health diagnostics, offering promising avenues
+for accessible and accurate diagnostic tools. This study bridges theoretical
+research with practical applications, fostering the development of innova-
+tive solutions for addressing the mental health crisis
 
 ## Methods
 In this project, we evaluated the performance of various machine learning algorithms on data with missing values. The following algorithms were applied:
