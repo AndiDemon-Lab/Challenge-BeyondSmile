@@ -21,7 +21,9 @@ Two strategies were employed to handle missing data:
 
 ## Results
 
-## Accuracy
+## Universal Model
+This universal model employ Leave One Participant Out Cross validation to make generelized model
+
 ### Accuracy (Drop NaN)
 <table>
   <thead>
@@ -138,8 +140,6 @@ Two strategies were employed to handle missing data:
 </table>
 
 
-## AUROC
+## Hybrid Model
 
 
-
-## F1 Score
